@@ -1,0 +1,34 @@
+===================================
+GISMAPS - www.gismaps.com.br
+===================================
+Mapas Temáticos - Geoprocessamento
+===================================
+
+* Grupo: Divisão Política
+
+* Título: Grandes regiões do Brasil (SHP)
+
+* Descrição: Mapa das Grandes Regiões do Brasil no formato shapefile
+
+* Ano/Revisão: 2017
+
+* Data de atualização: 01/12/2017
+
+* Fonte: IBGE
+
+* Conteúdo:
+
+**************** grandes_regioes_shp.dbf ****************
+
+ID	- Identificador sequencial
+NOME1	- Nome da região
+NOME2	- Nome da região
+SIGLA	- Sigla da região
+
+**************** grandes_regioes_shp.PRJ ****************
+
+GEOGCS["SIRGAS 2000",DATUM["D_SIRGAS_2000",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]
+
+===================================
+GISMAPS - www.gismaps.com.br
+===================================
