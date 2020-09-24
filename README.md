@@ -11,4 +11,4 @@ O minicurso foi idealizado e apresentado pelos seguintes integrantes do grupo de
 
 ## Agradecimentos
 
-Aos colegas que participaram e a GSS responsável por organizar o minicurso.
+Aos colegas que participaram do minicurso e a GSS responsável por organizar o evento.
