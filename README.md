@@ -1,34 +1,18 @@
 # PythonParaGeofisicos
 
-<div style="text-align:center; display:flex; justify-content:space-between;">
-<div style="background-color:white; width:25%; height:150px; display: flex;">
+Material do minicurso "Python para Geofísicos".
 
-<img src="https://giecaruff.github.io/sites/gss_semana_2020/logos/GSS_semana_geofisica.png" height="40%">
+Nos dias 08 e 10 de setembro de 2020, durante a semana de geofísica virtual da UFF, organizada pela GSS, ministramos o minicurso "Python para Geofísicos". O objetivo foi de apresentar algumas funcionalidades que o python oferece interessantes para a área da geofísica. No primeiro dia, fizemos uma introdução ao python e algumas de suas bilbiotecas. Já no segundo dia, aplicamos algumas dessas funcionalidades a áreas da geofísica, como por exemplo, potenciais, sísmica, poço, modelagem, etc. 
 
-</div>
-<div style="background-color:white; width:50%; height:150px; text-align:center;">
+O minicurso utilizou da plataforma Google Colaboratory e neste repositório contém os notebooks desenvolvidos. Está dividido no material de cada dia, sendo o diretório `Dia1` contendo o material de introdução ao python apresentado no primeiro dia do minicurso e também certos materiais extras, e no diretório `Dia2`, o material contendo os exemplos de aplicações em algumas áreas.
 
-<br><br>
+O minicurso foi idealizado e apresentado pelos seguintes integrantes do grupo de pesquisa GIECAR, da UFF:
+    - Fernando Vizeu (@fvizeus)
+    - Mario Martins (@mmramos)
+    - Rodrigo Bijani (@rodrigobijani)
+    - Rodrigo Mota (@rmotadutra)
 
-<span style="color:purple; font-size: 16pt;">Semana acadêmica virtual 2020 <br></span>
-<span style="color:purple; font-size: 25pt;font-weight: bold;">Minicurso Python Para Geofísicos </span>
 
-</div>
+## Agradecimentos
 
-<div style="background-color:white; width:25%; height:150px; text-align:right">
-<img src="https://giecaruff.github.io/sites/gss_semana_2020/logos/logo_colorida_icone.png" height="60%">
-</div>
-</div>
-
-<div style="background-color:white">
-<center><span style="color:purple; font-size: 25pt;font-weight: bold;center">Equipe:</span>
-<br><br>
-
-<div style="background-color:white;width:172px;text-align:center;display:inline-block;"> <span style="color:#92d14f; font-size: 14pt;font-weight: bold;">Fernando Vizeu</span> <div><img src="https://giecaruff.github.io/sites/gss_semana_2020/integrantes/vizeu.jfif" width="150px" style="border-radius:50%;border-style: solid;"></div> <span style="color:#3991c9; font-size: 10pt">fernandovizeu@id.uff.br</span> </div>
-<div style="background-color:white;width:172px;text-align:center;display:inline-block;"> <span style="color:#92d14f; font-size: 14pt;font-weight: bold;">Mário Martins</span> <div><img src="https://giecaruff.github.io/sites/gss_semana_2020/integrantes/mario_machine.png" width="150px" style="border-radius:50%;border-style: solid;"></div> <span style="color:#3991c9; font-size: 10pt">mario_martins@id.uff.br</span> </div>
-<div style="background-color:white;width:172px;text-align:center;display:inline-block;"> <span style="color:#92d14f; font-size: 14pt;font-weight: bold;">Rodrigo Mota</span> <div><img src="https://giecaruff.github.io/sites/gss_semana_2020/integrantes/rodrigo_dutra.jfif" width="150px" style="border-radius:50%;border-style: solid;"></div> <span style="color:#3991c9; font-size: 10pt">dutrarodrigo@id.uff.br</span> </div>
-<div style="background-color:white;width:172px;text-align:center;display:inline-block;"> <span style="color:#92d14f; font-size: 14pt;font-weight: bold;">Rodrigo Bijani</span> <div><img src="https://giecaruff.github.io/sites/gss_semana_2020/integrantes/rodrigo_bijani.jfif" width="150px" style="border-radius:50%;border-style: solid;"></div> <span style="color:#3991c9; font-size: 10pt">rodrigobijani@id.uff.br</span> </div>
-
-</div>
-
-Conteúdo do minicurso "Python para Geofísicos".
+Os idealizadores agradecem aos colegas que participaram e também o pessoal da GSS que organizou o minicurso.
