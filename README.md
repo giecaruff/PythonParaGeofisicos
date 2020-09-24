@@ -6,7 +6,7 @@ Nos dias 08 e 10 de setembro de 2020, durante a semana de geofísica virtual da 
 
 O minicurso utilizou da plataforma Google Colaboratory e neste repositório contém os notebooks desenvolvidos. Está dividido no material de cada dia, sendo o diretório `Dia1` contendo o material de introdução ao python apresentado no primeiro dia do minicurso e também certos materiais extras, e no diretório `Dia2`, o material contendo os exemplos de aplicações em algumas áreas.
 
-O minicurso foi idealizado e apresentado pelos seguintes integrantes do grupo de pesquisa GIECAR, da UFF: Fernando Vizeu - @fvizeus, Mario Martins - @mmramos, Rodrigo Bijani - @rodrigobijani, Rodrigo Mota - @rmotadutra.
+O minicurso foi idealizado e apresentado pelos seguintes integrantes do grupo de pesquisa GIECAR: Fernando Vizeu - @fvizeus, Mario Martins - @mmramos, Rodrigo Bijani - @rodrigobijani, Rodrigo Mota - @rmotadutra.
 
 
 ## Agradecimentos
